@@ -1,6 +1,6 @@
 # webpack-rails-react-router
 
-This example app was built using [webpack-rails-react](https://github.com/cottonwoodcoding/webpack-rails-react) with the --router flag passed on genearation.  This is a simple Todo List App to demonstrate extracting your client to a [React](https://facebook.github.io/react/) application using react-router.
+This example app was built using [webpack-rails-react](https://github.com/cottonwoodcoding/webpack-rails-react) with the --router flag passed on generation. This is a simple Todo List App to demonstrate extracting your client to a [React](https://facebook.github.io/react/) application using react-router.
 
 ### Running Sample App
 1.  git clone
