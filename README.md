@@ -32,6 +32,7 @@ rails g controller home index --no-helper --no-assets
 root 'home#index'
 get '*unmatched_route', to: 'home#index'
 ```
+**unmatched _route must be the last line of the routes file*
 9. Create a NoMatch component and add to your client side routes.
 ```
 <Route path="*" status={404} component={NoMatch}/>
